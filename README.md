@@ -1,4 +1,4 @@
-# 3D Speed Estimation of Right Wrist Speed Using MediaPipe Pose
+# Speed Estimation of Right Wrist Speed Using MediaPipe Pose
 
 A **real-time pose tracking + 3D speed estimation** system that:
 
