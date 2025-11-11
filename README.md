@@ -28,3 +28,6 @@ A **real-time pose tracking + 3D speed estimation** system that:
 ```bash
 pip install opencv-python mediapipe numpy
 ```
+
+## Output Screenshot
+<img src="Screenshot 2025-11-11 144558.png">
