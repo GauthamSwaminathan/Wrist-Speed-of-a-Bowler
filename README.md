@@ -3,7 +3,7 @@
 A **real-time pose tracking + 3D speed estimation** system that:
 
 - Uses **MediaPipe Pose** to detect human body landmarks in a video
-- Tracks the **right wrist** in **3D world coordinates** using a **custom camera intrinsic matrix**
+- Tracks the **right wrist** in **3D world coordinates** using a **camera intrinsic matrix** and estimated **metric depth value** using **monocular depth estimation - DepthPro**
 - Computes **instantaneous speed in meters per second (m/s)**
 - Overlays speed on video with clean **white background text**
 - Saves **annotated output video** in `.mp4` format
